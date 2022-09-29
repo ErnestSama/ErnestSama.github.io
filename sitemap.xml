@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://anyalog.com/2022/09/23/%E7%9B%B8%E5%AF%B9%E6%97%B6%E9%97%B4%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%BB%9D%E5%AF%B9%E6%97%B6%E9%97%B4%E5%AF%BC%E6%95%B0%E7%9A%84%E8%BD%AC%E5%8C%96/</loc>
+    <loc>http://anyalog.com/2022/09/20/%E6%8E%A7%E5%88%B6%E5%AD%A6%E7%A7%91%E8%BF%90%E7%AD%B9%E5%AD%A6%E7%AC%94%E8%AE%B0%E5%8F%8A%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/</loc>
     
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2022-09-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://anyalog.com/2022/09/20/%E6%8E%A7%E5%88%B6%E5%AD%A6%E7%A7%91%E8%BF%90%E7%AD%B9%E5%AD%A6%E7%AC%94%E8%AE%B0%E5%8F%8A%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/</loc>
+    <loc>http://anyalog.com/2022/09/23/%E7%9B%B8%E5%AF%B9%E6%97%B6%E9%97%B4%E5%AF%BC%E6%95%B0%E4%B8%8E%E7%BB%9D%E5%AF%B9%E6%97%B6%E9%97%B4%E5%AF%BC%E6%95%B0%E7%9A%84%E8%BD%AC%E5%8C%96/</loc>
     
-    <lastmod>2022-09-22</lastmod>
+    <lastmod>2022-09-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -247,7 +247,7 @@
 
   <url>
     <loc>http://anyalog.com/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2022-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -257,21 +257,21 @@
   
   <url>
     <loc>http://anyalog.com/categories/MeetingSummary/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2022-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://anyalog.com/categories/Essay/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2022-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://anyalog.com/categories/Learning/</loc>
-    <lastmod>2022-09-23</lastmod>
+    <lastmod>2022-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
